@@ -1,4 +1,4 @@
-let nums = [0, 1, 0, 3, 12]
+let nums = [0]
 
 // const moveZeroes = function(nums) {
 //   if (nums.length > 1 && nums.reduce((a, b) => a + b) != 0 && nums.indexOf(0) != -1) {
